@@ -1,0 +1,25 @@
+ try
+ {
+     string text = textBox1.Text;
+
+
+     string[] words = text.Split(new char[] { ' ', '\t', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+
+
+     if (words.Length >80)
+     {
+
+         textBox1.Text = string.Join(" ", words.Take(80));
+         textBox1.Select(textBox1.TextLength, 0);
+     }
+   
+ }
+ catch (Exception ex)
+ {
+     MessageBox.Show("Error: " + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+     Console.WriteLine("Exception Details: " + ex.ToString());
+ }
+ finally
+ {
+     connectionString.Clone();
+ }
