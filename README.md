@@ -41,6 +41,12 @@ To deploy this project run
 
 - [@github](https://github.com/Emmejo)
 
+##Screeenshots
+![1](https://github.com/Emmejo/C_Sharp_Project/assets/124621939/978ec536-dde4-4e0e-b1dd-57f3c178918f)
+![2](https://github.com/Emmejo/C_Sharp_Project/assets/124621939/0d91c5a7-6720-49f7-b2ad-41f4f645f2c9)
+![3](https://github.com/Emmejo/C_Sharp_Project/assets/124621939/cb65d669-150c-474f-82fe-38dd2c815a34)
+![4](https://github.com/Emmejo/C_Sharp_Project/assets/124621939/fa3ab8c1-d813-4cd7-b7c9-244fbd10d169)
+
 ## Color Reference
 
 | Color             | Hex                                                                |
