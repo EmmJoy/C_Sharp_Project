@@ -43,7 +43,7 @@ To deploy this project run
 
 
 
-##Screeenshots
+## Screenshots
 
 
 ![1](https://github.com/Emmejo/C_Sharp_Project/assets/124621939/978ec536-dde4-4e0e-b1dd-57f3c178918f)
